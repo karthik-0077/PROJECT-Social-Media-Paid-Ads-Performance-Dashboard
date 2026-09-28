@@ -43,9 +43,12 @@ The model has one fact table, a date table and a separate measures table.
 
 ## Screenshots
 
-![Social Media Performance](screenshots/social_media_performance.png)
-![Ads Performance](screenshots/ads_performance.png)
-![Post Performance & Region](screenshots/post_performance_region.png)
+<img width="648" height="361" alt="image" src="https://github.com/user-attachments/assets/7eb698dd-ce4c-4e30-923a-5521a8c5701f" />
+
+<img width="641" height="368" alt="image" src="https://github.com/user-attachments/assets/71e99933-9bc3-416b-b266-b9fe3516d931" />
+
+<img width="652" height="366" alt="image" src="https://github.com/user-attachments/assets/ddfea06e-d5bb-4d55-801a-33574fae56e5" />
+
 
 ## Files
 
